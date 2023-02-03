@@ -1,2 +1,2 @@
 # PortfolioProjects
-This Repository is used to hold files pertaining to Data analytical projects so that hiring personel can see my work
+This Repository is used to hold Portfolio Projects so that employers can see my work
